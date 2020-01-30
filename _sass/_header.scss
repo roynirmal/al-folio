@@ -1,6 +1,6 @@
 .site-header {
-    border-bottom: 1px solid $grey-color-light;
-    background-color: #fff;
+    border-bottom: 1px solid #D2CCA1;
+    background-color: #F1EED9;
     opacity: 0.95;
     position:fixed;
     left:calc((100vw - 100%)/2);
@@ -29,6 +29,7 @@
     
     .page-link{
         line-height: $line-height;
+        color: #CE534D;
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 10px;
