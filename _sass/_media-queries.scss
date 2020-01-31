@@ -6,7 +6,7 @@
 
 @media screen and (min-width: $viewport-small) {
     html {
-        font-size: 16px;
+        font-size: 12px;
     }
 
   h1,
@@ -48,16 +48,16 @@
     text-align: right;
   }
   .img_row {
-     height: $img-height/3;
+     height: $img-height/4;
   }
   .col {
-      padding: $img-spacing/3;
+      padding: $img-spacing/4;
   }
 }
 
 @media screen and (min-width: $viewport-medium) {
   html {
-    font-size: 18px;
+    font-size: 14px;
   }
   .img_row {
      height: $img-height/1.5;
