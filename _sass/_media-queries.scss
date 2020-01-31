@@ -25,7 +25,9 @@
   .site-header a {
     font-size: $h4;
   }
-
+  .address p{ 
+    margin-right: 20px;
+  }
   .site-header .site-title {
     font-size: $h3;
     float: left;
@@ -61,6 +63,9 @@
   }
   .img_row {
      height: $img-height/1.5;
+  }
+  .address p{ 
+    margin-right: 20px;
   }
   .col {
       padding: $img-spacing/1.5;
