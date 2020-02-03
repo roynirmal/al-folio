@@ -2,7 +2,7 @@
 layout: post
 title: 2 quarters down memory lane
 date: 2018-02-27 15:09:00
-description: an example of a blog post with some code
+comments: true
 ---
 Disclaimer: This one will be a lot of introspection: figments of thoughts stitched in a slapdash manner.
 
