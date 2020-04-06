@@ -2,7 +2,7 @@
 layout: post
 title:  musings for the night
 date: 2020-04-6 21:01:00
-description: this is what included images could look like
+
 ---
 I believe I can now put into words the reason for my frustration. The reason of a momentary spikes in the not so serene parts of the brain. The reason for rejuvenated nihilistic feelings.
 
