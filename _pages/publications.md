@@ -7,7 +7,7 @@ title: publications
 ---
 
   <h3 class="year">2020</h3>
-**Nirmal Roy**, Felipe Moraes, Claudia Hauff.   _Exploring Users’ Learning Gains within Search Sessions._ CHIIR [[preprint](https:google.com){:target="_blank"}]  [[code](https://github.com/felipemoraes/searchx){:target="_blank"}]. 
+**Nirmal Roy**, Felipe Moraes, Claudia Hauff.   _Exploring Users’ Learning Gains within Search Sessions._ CHIIR [[PDF](https://dl.acm.org/doi/abs/10.1145/3343413.3378012){:target="_blank"}]  [[code](https://github.com/felipemoraes/searchx){:target="_blank"}]. 
 
 
 <h3 class="year">2019</h3>
