@@ -8,6 +8,12 @@ title: activities
 
   <h3 class="year">2020</h3>
 
+##### December
+Presented my poster on CHIIR 2020 short paper [[Exploring Users’ Learning Gains within Search Sessions] (https://dl.acm.org/doi/abs/10.1145/3343413.3378012){:target="_blank"}] at [[DIR 2020] (https://dir2020.be/).{:target="_blank"}].
+
+##### August
+Presented my poster on CHIIR 2020 short paper [[Exploring Users’ Learning Gains within Search Sessions] (https://dl.acm.org/doi/abs/10.1145/3343413.3378012){:target="_blank"}] at the online version of the conference.
+
 ##### April
 
 Participated and submitted our first set of runs for the [TREC COVID](https://ir.nist.gov/covidSubmit/index.html) together with [Felipe], [David] and [Claudia]. 

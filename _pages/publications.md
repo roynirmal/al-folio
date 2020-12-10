@@ -5,6 +5,11 @@ title: publications
 
 
 ---
+ <h3 class="year">2021</h3>
+**Nirmal Roy**, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff.   _Note the Highlight: Incorporating Active Reading Tools for Search As Learning_ CHIIR. 
+
+ <h3 class="year">2021</h3>
+Arthur Câmara, **Nirmal Roy**, David Maxwell and Claudia Hauff.    _Searching to Learn with Instructional Scaffolding_ CHIIR [[PDF](https://dl.acm.org/doi/abs/10.1145/3343413.3378012){:target="_blank"}]. 
 
   <h3 class="year">2020</h3>
 **Nirmal Roy**, Felipe Moraes, Claudia Hauff.   _Exploring Users’ Learning Gains within Search Sessions._ CHIIR [[PDF](https://dl.acm.org/doi/abs/10.1145/3343413.3378012){:target="_blank"}]  [[code](https://github.com/felipemoraes/searchx){:target="_blank"}]. 
